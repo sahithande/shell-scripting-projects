@@ -39,5 +39,16 @@ function list_users_with_read_access {
 
 }
 
+# Helper function to pass required args
+
+function helper {
+    if [[ $# -ne 2 ]]
+    then 
+        echo "please pass the required arguments to the script."
+        exit 1
+    fi
+}
+
 echo "Listing users with read access to repo ${REPO_OWNER}/${REPO_NAME}"
+helper
 list_users_with_read_access
