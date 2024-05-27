@@ -1,4 +1,10 @@
 #!/bin/bash
+####################################
+# Owner: sahithande
+# Date: 22nd-may
+# Version: v1
+# This script will output list of collaborators in a GitHub repo.
+
 
 # GitHub API URL
 API_URL="https://api.github.com"

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##########################
-# Author: Sahithande
+# Owner: Sahithande
 
 # Date: May-22nd
 
