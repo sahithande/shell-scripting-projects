@@ -8,3 +8,6 @@ project2 is to report list of collaborators in a GitHub repo.
 
 project3 is related to monitoring free RAM space in an EC2 instance.
 
+project4 is related to monitoring the disk space usage.
+
+project5 is related to archiving the log files that are old and large in size.
